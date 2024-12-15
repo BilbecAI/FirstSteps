@@ -1,3 +1,6 @@
+# Program wypisuje liste uczniów, w której id jest w formie klucza a imie i oceny w formie zagnieżdżonego słownika. Program dodaje nowego ucznia do słownika, szuka ucznia po imieniu a następnie usuwa wybranego ucznia.
+
+
 uczniowie = {
     "uczen_1": {"Imie":"Dawid", "Wiek": 15, "Oceny": [4, 5, 3]},
     "uczen_2": {"Imie":"Anna", "Wiek": 16, "Oceny": [5, 5, 4]}
